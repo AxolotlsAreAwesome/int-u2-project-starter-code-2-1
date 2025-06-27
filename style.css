@@ -27,3 +27,8 @@ h2 {
     border: 5px black solid;
     margin:5px;
 }
+
+Body{
+    background-color: rgba(24, 153, 189, 0.655);
+    background-image: url(https://th.bing.com/th/id/OIP.pkgn7_O-2jGQU9lqY3elxQAAAA?w=147&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+}
